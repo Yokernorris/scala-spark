@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3059a55b-2fe2-4813-bfef-4a2abde698a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+    <option name="REVERSE_PATCH" value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="scala-spark" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="scala-spark" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ModuleEditorState">
+    <option name="LAST_EDITED_MODULE_NAME" />
+    <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1c8b3DzrYeVKAM5yBWgDpQMqjvt" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state />
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager" selected="Application.PruebasSQL">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method>
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="HousePriceProblem" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sparkTutorial.sparkSql.HousePriceProblem" />
+      <module name="scala-spark-tutorial.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparkTutorial.sparkSql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebasSQL" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sparkTutorial.sparkSql.PruebasSQL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparkTutorial.sparkSql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortedWordCountProblem" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sparkTutorial.pairRdd.sort.SortedWordCountProblem" />
+      <module name="scala-spark-tutorial.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparkTutorial.pairRdd.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortedWordCountProblem2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sparkTutorial.pairRdd.sort.SortedWordCountProblem2" />
+      <module name="scala-spark-tutorial.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparkTutorial.pairRdd.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackOverFlowSurvey" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sparkTutorial.sparkSql.StackOverFlowSurvey" />
+      <module name="scala-spark-tutorial.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparkTutorial.sparkSql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PruebasSQL" />
+        <item itemvalue="Application.HousePriceProblem" />
+        <item itemvalue="Application.StackOverFlowSurvey" />
+        <item itemvalue="Application.SortedWordCountProblem2" />
+        <item itemvalue="Application.SortedWordCountProblem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3059a55b-2fe2-4813-bfef-4a2abde698a1" name="Default Changelist" comment="" />
+      <created>1589912969581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589912969581</updated>
+      <workItem from="1589912976497" duration="444000" />
+      <workItem from="1589913556747" duration="103000" />
+      <workItem from="1589913663948" duration="844000" />
+      <workItem from="1589992342458" duration="8742000" />
+      <workItem from="1590052938838" duration="14197000" />
+      <workItem from="1590168577356" duration="3325000" />
+      <workItem from="1590408668278" duration="27000" />
+      <workItem from="1591178435275" duration="1254000" />
+      <workItem from="1591179981310" duration="499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="650" y="155" width="650" height="771" key="#PruebasSQL" timestamp="1591180439050">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state x="650" y="155" width="650" height="771" key="#PruebasSQL/36.0.1884.1080@36.0.1884.1080" timestamp="1591180439050" />
+    <state x="711" y="299" width="528" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1591178584418">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state x="711" y="299" width="528" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/36.0.1884.1080@36.0.1884.1080" timestamp="1591178584418" />
+    <state x="727" y="456" width="495" height="167" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1589913615049">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state x="727" y="456" width="495" height="167" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/36.0.1884.1080@36.0.1884.1080" timestamp="1589913615049" />
+    <state x="707" y="332" width="529" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591180414767">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state x="707" y="332" width="529" height="416" key="#com.intellij.ide.util.TreeClassChooserDialog/36.0.1884.1080@36.0.1884.1080" timestamp="1591180414767" />
+    <state x="722" y="383" width="506" height="316" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1589992611966">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state x="722" y="383" width="506" height="316" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/36.0.1884.1080@36.0.1884.1080" timestamp="1589992611966" />
+    <state x="761" y="298" width="428" height="484" key="FileChooserDialogImpl" timestamp="1589913416687">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state x="761" y="298" width="428" height="484" key="FileChooserDialogImpl/36.0.1884.1080@36.0.1884.1080" timestamp="1589913416687" />
+    <state width="1838" height="260" key="GridCell.Tab.0.bottom" timestamp="1591180480091">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state width="1838" height="260" key="GridCell.Tab.0.bottom/36.0.1884.1080@36.0.1884.1080" timestamp="1591180480091" />
+    <state width="1838" height="260" key="GridCell.Tab.0.center" timestamp="1591180480090">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state width="1838" height="260" key="GridCell.Tab.0.center/36.0.1884.1080@36.0.1884.1080" timestamp="1591180480090" />
+    <state width="1838" height="260" key="GridCell.Tab.0.left" timestamp="1591180480090">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state width="1838" height="260" key="GridCell.Tab.0.left/36.0.1884.1080@36.0.1884.1080" timestamp="1591180480090" />
+    <state width="1838" height="260" key="GridCell.Tab.0.right" timestamp="1591180480090">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state width="1838" height="260" key="GridCell.Tab.0.right/36.0.1884.1080@36.0.1884.1080" timestamp="1591180480090" />
+    <state width="1838" height="354" key="GridCell.Tab.1.bottom" timestamp="1590157454341">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state width="1838" height="354" key="GridCell.Tab.1.bottom/36.0.1884.1080@36.0.1884.1080" timestamp="1590157454341" />
+    <state width="1838" height="354" key="GridCell.Tab.1.center" timestamp="1590157454335">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state width="1838" height="354" key="GridCell.Tab.1.center/36.0.1884.1080@36.0.1884.1080" timestamp="1590157454335" />
+    <state width="1838" height="354" key="GridCell.Tab.1.left" timestamp="1590157454334">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state width="1838" height="354" key="GridCell.Tab.1.left/36.0.1884.1080@36.0.1884.1080" timestamp="1590157454334" />
+    <state width="1838" height="354" key="GridCell.Tab.1.right" timestamp="1590157454340">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state width="1838" height="354" key="GridCell.Tab.1.right/36.0.1884.1080@36.0.1884.1080" timestamp="1590157454340" />
+    <state x="474" y="175" key="SettingsEditor" timestamp="1589913705794">
+      <screen x="36" y="0" width="1884" height="1080" />
+    </state>
+    <state x="474" y="175" key="SettingsEditor/36.0.1884.1080@36.0.1884.1080" timestamp="1589913705794" />
+  </component>
+</project>
